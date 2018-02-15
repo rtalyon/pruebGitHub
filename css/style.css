@@ -1,4 +1,5 @@
-*{
-	background-image: url(img/Pika.jpg);
-	background-repeat: no-repeat; 
+body{
+	background-image: url("../img/pika2.jpg");
+	background-repeat: repeat;
+	position: relative;
 }
